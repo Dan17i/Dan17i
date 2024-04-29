@@ -1,6 +1,6 @@
 # ¡Hola, mundo! 👋<br><br>Soy Daniel Jurado, un apasionado desarrollador de software con un amor por el código limpio y las soluciones innovadoras. Aquí encontrarás mis proyectos personales, colaboraciones y todo lo que me entusiasma en el mundo de la tecnología.
 
-<br><br>¡¡Sobre mí!! 😎
+<br><br>
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me** <br><br>
 
 - 🌱 Actualmente estoy aprendiendo **Java, C++ y Python**.<br>
