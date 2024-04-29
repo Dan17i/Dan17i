@@ -1,4 +1,7 @@
-# ¡Hola, mundo! 👋<br><br>Soy Daniel Jurado, un apasionado desarrollador de software con un amor por el código limpio y las soluciones innovadoras. Aquí encontrarás mis proyectos personales, colaboraciones y todo lo que me entusiasma en el mundo de la tecnología.
+# ¡Hola, mundo! 👋
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
+<br><br>Soy Daniel Jurado, un apasionado desarrollador de software con un amor por el código limpio y las soluciones innovadoras. Aquí encontrarás mis proyectos personales, colaboraciones y todo lo que me entusiasma en el mundo de la tecnología.
 
 <br><br>
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me** <br><br>
