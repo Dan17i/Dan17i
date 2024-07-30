@@ -1,5 +1,4 @@
-# ¡Hola, mundo! 👋
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+# ¡Hola! 👋
 
 <br><br>Soy Daniel Jurado, un apasionado desarrollador de software con un amor por el código limpio y las soluciones innovadoras. Aquí encontrarás mis proyectos personales, colaboraciones y todo lo que me entusiasma en el mundo de la tecnología.
 <br><br>
@@ -27,8 +26,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Dan17i&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dan17i&icon=0&color=4)](https://visitcount.itsvg.in)
