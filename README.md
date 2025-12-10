@@ -34,9 +34,6 @@ Here are some ideas to get you started:
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Dan17i&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Dan17i&icon=0&color=4)](https://visitcount.itsvg.in)
 
