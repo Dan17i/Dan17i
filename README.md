@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-# ¡Hola, mundo! 👋<br><br>Soy Daniel Jurado, Estudiante de Ingeniería de Sistemas y Computación, cursando sexto semestre, con formación complementaria en Análisis y Desarrollo de Software. Interés en áreas como desarrollo web, desarrollo de software, análisis de requerimientos, bases de datos y soporte técnico. Caracterizado por pensamiento lógico, disposición para el aprendizaje continuo y capacidad para trabajar en equipo.<br><br>¡¡Sobre mí!! 😎<br><br>- 🌱 Actualmente estoy aprendiendo **Java, C++ y Python**.<br>- 👯 Busco colaborar en **en proyectos y programas educativos**.<br>- 🤔 Estoy buscando ayuda con **experiencia en manejo de APIs y nuevos proyectos**.<br>- 💬 Pregúntame sobre **mis objetivos y misiones**.<br>- 📫 Cómo contactarme:  daniele.juradoc@uniquidio.edu.co .<br>
+# ¡Hola, mundo! 👋<br><br>Soy Daniel Jurado, Estudiante de Ingeniería de Sistemas y Computación, cursando octavo semestre, con formación complementaria en Análisis y Desarrollo de Software. Interés en áreas como desarrollo web, desarrollo de software, análisis de requerimientos, bases de datos y soporte técnico. Caracterizado por pensamiento lógico, disposición para el aprendizaje continuo y capacidad para trabajar en equipo.<br><br>¡¡Sobre mí!! 😎<br><br>- 🌱 Actualmente estoy aprendiendo **Java, C++ y Python**.<br>- 👯 Busco colaborar en **en proyectos y programas educativos**.<br>- 🤔 Estoy buscando ayuda con **experiencia en manejo de APIs y nuevos proyectos**.<br>- 💬 Pregúntame sobre **mis objetivos y misiones**.<br>- 📫 Cómo contactarme:  daniele.juradoc@uniquidio.edu.co .<br>
 
 
 ## 🌐 Socials:
